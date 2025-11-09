@@ -1,0 +1,2 @@
+For a sorted array with 1024 elements, how many comparisons are needed in
+the best case and in the worst case when searching? Please explain why?
